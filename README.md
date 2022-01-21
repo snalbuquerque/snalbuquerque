@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Sâmara Nascimento
 
-- 🌱 Estou atualmente aprendendo React
+- 🌱 Studying Front-End Development
 
 <div align="center">
   <a href="https://github.com/snalbuquerque">
