@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Sâmara Nascimento
 
-- 🌱 Studying Front-End Development
+- 🌱 Studying Full Stack Development
 
 <div align="center">
   <a href="https://github.com/snalbuquerque">
